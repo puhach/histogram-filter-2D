@@ -1,4 +1,4 @@
-#include "headers/normalize.h"
+#include "normalize.h"
 using namespace std;
 
 // OPTIMIZATION: Pass variable by reference

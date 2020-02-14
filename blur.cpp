@@ -1,5 +1,5 @@
-#include "headers/blur.h"
-#include "headers/zeros.h"
+#include "blur.h"
+#include "zeros.h"
 
 #include <future>
 #include <iostream>

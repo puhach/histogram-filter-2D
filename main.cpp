@@ -3,12 +3,12 @@
 #include <ctime>
 #include <vector>
 
-#include "headers/initialize_beliefs.h"
-#include "headers/sense.h"
-#include "headers/blur.h"
-#include "headers/normalize.h"
-#include "headers/move.h"
-#include "headers/print.h"
+#include "initialize_beliefs.h"
+#include "sense.h"
+#include "blur.h"
+#include "normalize.h"
+#include "move.h"
+#include "print.h"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include "headers/print.h"
+#include "print.h"
 using namespace std;
 
 void print_vector_float(vector< vector <float> > grid) {

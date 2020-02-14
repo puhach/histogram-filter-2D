@@ -1,4 +1,4 @@
-#include "headers/initialize_beliefs.h"
+#include "initialize_beliefs.h"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include "headers/zeros.h"
+#include "zeros.h"
 
 using namespace std;
 

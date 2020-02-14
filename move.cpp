@@ -1,5 +1,5 @@
-#include "headers/move.h"
-#include "headers/zeros.h"
+#include "move.h"
+#include "zeros.h"
 
 using namespace std;
 
