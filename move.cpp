@@ -15,7 +15,7 @@ vector< vector <float> > move(int dy, int dx, vector < vector <float> > &beliefs
   	// OPTIMIZATION: Use improved zeros function
 	//newGrid = std::move(zeros(height, width));
 
-// OPTIMIZATION: Eliminate any variables that aren't needed
+	// OPTIMIZATION: Eliminate any variables that aren't needed
 	//vector <float> row, newRow;
 	int i, j, new_i, new_j;
 	
